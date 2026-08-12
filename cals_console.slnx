@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cals_console.vcxproj" Id="8d069041-b06e-4a1c-a0eb-2b31ce471be4" />
+</Solution>
