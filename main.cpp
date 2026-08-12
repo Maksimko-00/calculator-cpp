@@ -3,8 +3,8 @@
 #include <windows.h> // для SetConsoleOutputCP
 
 int main() {
-    SetConsoleOutputCP(65001); // UTF‑8 для вывода
-    SetConsoleCP(65001);       // UTF‑8 для ввода (если нужно)
+    SetConsoleOutputCP(65001); 
+    SetConsoleCP(65001);    
 
     double a, b;
     char op;
