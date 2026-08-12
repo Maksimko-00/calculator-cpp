@@ -8,7 +8,7 @@
 - Проверка деления на ноль.
 - Корректное отображение русского текста в консоли.
 
-[📦 Скачать проект (ZIP)](https://github.com/Maksimko-00/calculator-cpp/archive/refs/heads/main.zip)
+[📦 Скачать проект (ZIP)](https://raw.githubusercontent.com/Maksimko-00/calculator-cpp/main/main.cpp)
 
 ## Как запустить
 1. Убедитесь, что у вас установлен компилятор C++ (g++, MinGW или Visual Studio).
